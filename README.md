@@ -8,7 +8,7 @@ It provides:
 
 ---
 
-## 📥 Download & Install
+##  Download & Install
 Scopix is currently available for **Windows** and **Linux**.
 
 - **Tested on:** Windows 10 and Windows 11.  
@@ -23,13 +23,13 @@ Scopix is currently available for **Windows** and **Linux**.
 
 ---
 
-## 💻 System Requirements
+##  System Requirements
 
 Scopix is optimized for modern desktop environments. For the best performance, we recommend using newer machines with up-to-date hardware and operating systems. While minimal specifications are not strictly defined, ensuring sufficient RAM, CPU capability, and graphics support will help achieve smooth operation.
 
 ---
 
-## 📜 License & Usage
+##  License & Usage
 - Scopix is **proprietary software** — all rights reserved.
 - You may **use** the application for personal or authorized professional purposes.
 - You may **not** redistribute, modify, reverse-engineer, or use it for commercial purposes without written permission.
@@ -38,13 +38,13 @@ Full terms are outlined in the [EULA](EULA.md).
 
 ---
 
-## ⚠️ Medical Disclaimer
+##  Medical Disclaimer
 Scopix is intended as a **tool for research and professional use** by qualified medical practitioners.  
 It is **not** a substitute for professional medical judgment, diagnosis, or treatment.
 
 ---
 
-## 🛠 Support
+##  Support
 - To report bugs or request features, use the [Issues](../../issues) tab.
 - For other inquiries, contact: **[Your contact email or website]**
 
