@@ -8,18 +8,35 @@ It provides:
 
 ---
 
-##  Download & Install
-Scopix is currently available for **Windows** and **Linux**.
+## Download & Install
 
-- **Tested on:** Windows 10 and Windows 11.  
-- **macOS support** is planned for a future release.
+Scopix is currently available for **Windows**, **Linux**, and **macOS**.
 
-### Installation
-1. Review the [End User License Agreement (EULA)](EULA.md).  
-   By downloading or using Scopix, you agree to its terms.
-2. Visit the [Releases](../../releases) page.
-3. Select the installer for your operating system.
+* **Tested on:** Windows 10, Windows 11, and modern Linux distributions.
+* **macOS support** is available but requires additional installation steps (see below).
+
+## Installation
+
+### Windows & Linux
+1. Review the End User License Agreement (EULA). By downloading or using Scopix, you agree to its terms.
+2. Visit the Releases page.
+3. Select the installer for your operating system:
+   - **Windows**: Download the `.exe` installer
+   - **Linux**: Download the `.AppImage` file
 4. Follow the on-screen installation instructions.
+
+### macOS Installation
+Due to macOS security requirements, you may see a "damaged" or "unidentified developer" warning. To install Scopix on macOS:
+
+1. Download the `.dmg` file from the Releases page
+2. **Right-click** the `.dmg` file and select "Open"
+3. If prompted with a security warning, click "Open" again to confirm
+4. Drag Scopix to your Applications folder
+5. **Important**: Navigate to Applications folder and **right-click** the Scopix app, then select "Open" (don't double-click)
+6. Click "Open" when prompted about the unidentified developer
+7. Scopix will now launch and can be opened normally in the future
+
+**Note**: This process is required because the app isn't code-signed with an Apple Developer certificate. This is a one-time setup process.
 
 ---
 
