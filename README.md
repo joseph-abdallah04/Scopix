@@ -13,7 +13,7 @@ It provides:
 Scopix is currently available for **Windows**, **Linux**, and **macOS**.
 
 * **Tested on:** Windows 10, Windows 11, and modern Linux distributions.
-* **macOS support** is available but requires additional installation steps (see below).
+* **macOS support** will become available soon but will require additional installation steps (see below).
 
 ## Installation
 
